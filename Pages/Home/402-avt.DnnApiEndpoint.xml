@@ -1,0 +1,53 @@
+<module type="DNNAPIEndpoint" version="05.01.03">
+    <moduleID>402</moduleID>
+    <alignment />
+    <alltabs>false</alltabs>
+    <border />
+    <cachemethod />
+    <cachetime>0</cachetime>
+    <color />
+    <containersrc />
+    <displayprint>false</displayprint>
+    <displaysyndicate>false</displaysyndicate>
+    <displaytitle>true</displaytitle>
+    <enddate>0001-01-01T00:00:00</enddate>
+    <footer />
+    <header />
+    <iconfile />
+    <inheritviewpermissions>true</inheritviewpermissions>
+    <iswebslice>false</iswebslice>
+    <modulepermissions>
+        <permission>
+            <permissioncode>SYSTEM_MODULE_DEFINITION</permissioncode>
+            <permissionkey>EDIT</permissionkey>
+            <allowaccess>true</allowaccess>
+            <rolename>Administrators</rolename>
+        </permission>
+    </modulepermissions>
+    <title>avt.DnnApiEndpoint</title>
+    <startdate>0001-01-01T00:00:00</startdate>
+    <uniqueId>b835509e-73b3-4d16-85ec-aaf1f83d6f2b</uniqueId>
+    <visibility>Maximized</visibility>
+    <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
+    <webslicetitle />
+    <webslicettl>0</webslicettl>
+    <cultureCode />
+    <modulesettings />
+    <tabmodulesettings />
+    <definition>DNN API Endpoint</definition>
+    <moduledefinition>avt.DnnApiEndpoint</moduledefinition>
+    <content type="DNNAPIEndpoint" version="05.01.03"><![CDATA[&lt;DnnApiEndpoint&gt;
+  &lt;Settings&gt;
+    &lt;Version&gt;5.1.0&lt;/Version&gt;
+    &lt;Build&gt;5.1.3&lt;/Build&gt;
+    &lt;CurrentContext&gt;&lt;![CDATA[ExportImport]]&gt;&lt;/CurrentContext&gt;
+    &lt;ModuleId&gt;402&lt;/ModuleId&gt;
+    &lt;IsDebug&gt;False&lt;/IsDebug&gt;
+    &lt;DateFormat&gt;m/d/yy&lt;/DateFormat&gt;
+    &lt;BaseId&gt;dnn402&lt;/BaseId&gt;
+    &lt;LocalizedStringsUrl&gt;/DesktopModules/DnnSharp/DnnApiEndpoint/AdminApi.ashx?method=GetLocalization&amp;amp;locale=en-US&lt;/LocalizedStringsUrl&gt;
+    &lt;JsonUrl&gt;/DesktopModules/DnnSharp/DnnApiEndpoint/AdminApi.ashx?method=FormSettings&amp;amp;mid=402&lt;/JsonUrl&gt;
+  &lt;/Settings&gt;
+  &lt;Methods /&gt;
+&lt;/DnnApiEndpoint&gt;]]></content>
+</module>
